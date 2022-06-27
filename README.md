@@ -1,13 +1,13 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm Milana
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
 
-<!--
-**MilanaPosk/MilanaPosk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+A few words about me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 Currently I work as a data management specialist
+- 🌱 I’m taking professional training courses in the field of data science
+- 👯 I’m interested in analytics, data science and everything related to it
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
